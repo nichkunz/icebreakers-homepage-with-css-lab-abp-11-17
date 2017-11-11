@@ -93,3 +93,5 @@ div.questions a.btn {
   padding: none;
   font-size: 20px;
 }
+
+div.questions a.btn:hover {
