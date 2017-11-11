@@ -12,3 +12,6 @@ header {
   border-color: #ccc;
 }
 
+header nav {
+  float: right;
+}
